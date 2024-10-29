@@ -1,1 +1,2 @@
-# .github
+# A-IQ READY Platform
+
