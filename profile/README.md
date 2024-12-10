@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="350" src="./img/aiqready_logo.png" alt="A-IQ Ready logo">
+  <img width="350" src="../img/aiqready_logo.png" alt="A-IQ Ready logo">
 </p>
 
 # A-IQ READY Platform
