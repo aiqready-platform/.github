@@ -9,6 +9,10 @@ The A-IQ Ready project aims to introduce and materialise an intelligent autonomo
 
 This organization represents the efforts to provide a common platform within the project for edge AI. It contains several repositories, from the various project partners, with their contribuitons to the platform.
 
+<p align="center">
+  <img  src="./img/aiqready_platform.png" alt="A-IQ Ready logo">
+</p>
+
 # Repositories index
 
 - [Elastic CGRA Generator](https://github.com/aiqready-platform/cgra_gen): Architectural template to generate and simulate elastic Coarse-Grained Reconfigurable Architectures (CGRAs)
